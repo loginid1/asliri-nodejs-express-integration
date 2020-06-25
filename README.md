@@ -72,7 +72,7 @@ To obtain the client keys you will need to perform the following steps:
 
 **Step 3** - Enter the integration dashboard
 
-Once you have access to the LoginID dashboard, use the navigation bar to select **"Integrations"** option or press the **"Add Integration"** button.
+Once you have access to the Asliri dashboard, use the navigation bar to select **"Integrations"** option or press the **"Add Integration"** button.
 
 **Step 4** - Sign the Customer License Agreement
 
